@@ -28,9 +28,9 @@
 
  ##
  
- <a href="mailto:milenynogueira.oficial.br@gmail.com" target="_blanck"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- <a href="https://www.linkedin.com/in/mileny-nogueira-nascimento-b554211a6/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="https://www.youtube.com/channel/UCDJfMCnDGbbNrWBKuLVm5qg" target="_blanck"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+ <a href="mailto:milenynogueira.oficial.br@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/mileny-nogueira-nascimento-b554211a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.youtube.com/channel/UCDJfMCnDGbbNrWBKuLVm5qg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
            
           
