@@ -1,17 +1,12 @@
 ### Hi there 👋, welcome to my GitHub!
-Engenharia de Computação | Web Java
+#### Computer Engineering | Web Java
 
-<!--
-**Mileny-Nogueira/Mileny-Nogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando Javascript
+- 😄 Pronomes: Ela/dela
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" height="190em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Mileny-Nogueira&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/Mileny-Nogueira/README.md/github-readme-stats">
+  <img align="center" height="190em" width"50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mileny-Nogueira&layout=compact&theme=radical" />
+</a>
