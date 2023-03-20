@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, welcome to my GitHub!
+Engenharia de Computação | Web Java
 
 <!--
 **Mileny-Nogueira/Mileny-Nogueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
