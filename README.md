@@ -1,17 +1,15 @@
 
-### Hi there 👋, welcome to my GitHub!
-#### Computer Engineering | Web Java
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF99BE&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+welcome+to+my+GitHub!;+My+name+is+Mileny+Nogueira;I'm+19+years+old;I'm+from+Brazil;+:%29)](https://git.io/typing-svg)
 
+#### Computer Engineering | Web Java
 - 🌱 Estudando Javascript
 - 😄 Pronomes: Ela/dela
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mileny-Nogueira&bg_color=0d1117&color=FF99BE&line=E8006F&point=FF5592&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=Mileny-Nogueira&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/Mileny-Nogueira/README.md/github-readme-stats">
-  <img align="center" height="180em" width"50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mileny-Nogueira&layout=compact&theme=radical" />
-</a>
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mileny-Nogueira&show_icons=true&count_private=true&hide_border=true&title_color=E8006F&icon_color=FF5592&text_color=FF99BE&bg_color=0d1117" alt="Mileny Nogueira a github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mileny-Nogueira&layout=compact&hide_border=true&title_color=E8006F&text_color=FF99BE&bg_color=0d1117" />
+</div>
 
 <div style="display: inline_block"><br>
   <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
