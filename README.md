@@ -15,11 +15,14 @@
   <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
   <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
   <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />      
   <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
   <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+  <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/VSfkJtj/Whats-App-Image-2023-03-05-at-14-41-10-removebg-preview.png" alt="Whats-App-Image-2023-03-05-at-14-41-10-removebg-preview" border="0" width="200px" height="199px" align="right"></a>
 </div>
 
