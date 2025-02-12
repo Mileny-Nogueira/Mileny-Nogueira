@@ -30,5 +30,4 @@
  <a href="https://www.youtube.com/channel/UCDJfMCnDGbbNrWBKuLVm5qg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
-           
-![Snake animation](https://github.com/Mileny-Nogueira/Mileny-Nogueira/blob/output/github-contribution-grid-snake.svg)
+          
