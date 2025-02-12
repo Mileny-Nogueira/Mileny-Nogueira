@@ -6,8 +6,8 @@
 - 😄 Pronomes: Ela/dela
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mileny-Nogueira&show_icons=true&count_private=true&hide_border=true&title_color=E8006F&icon_color=FF5592&text_color=FF99BE&bg_color=0d1117" alt="Mileny Nogueira a github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mileny-Nogueira&layout=compact&hide_border=true&title_color=E8006F&text_color=FF99BE&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mileny-Nogueira&show_icons=true&count_private=true&hide_border=true&title_color=FF99BE&icon_color=FF99BE&text_color=FFF&bg_color=0d1117" alt="Mileny Nogueira a github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mileny-Nogueira&layout=compact&hide_border=true&title_color=FF99BE&text_color=FFF&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
@@ -29,5 +29,6 @@
  <a href="https://www.linkedin.com/in/mileny-nogueira-nascimento-b554211a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://www.youtube.com/channel/UCDJfMCnDGbbNrWBKuLVm5qg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
            
-          
+![Snake animation](https://github.com/Mileny-Nogueira/Mileny-Nogueira/blob/output/github-contribution-grid-snake.svg)
