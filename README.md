@@ -1,8 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF99BE&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+welcome+to+my+GitHub!;+My+name+is+Mileny+Nogueira;I'm+20+years+old;I'm+from+Brazil;+:%29)](https://git.io/typing-svg)
 
-#### Computer Engineering | Web Java
-- 🌱 Estudando Javascript
+#### Computer Engineering | C#
+- 🌱 Estudando Python
 - 😄 Pronomes: Ela/dela
 
 <div align="center">  
