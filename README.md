@@ -22,8 +22,7 @@
   <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
   <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img width="38px" height="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/VSfkJtj/Whats-App-Image-2023-03-05-at-14-41-10-removebg-preview.png" alt="Whats-App-Image-2023-03-05-at-14-41-10-removebg-preview" border="0" width="200px" height="199px" align="right"></a>
+  <img src="milly.png" alt="Desenho do meu avatar" border="0" width="200px" height="199px" align="right">
 </div>
 
  ##
